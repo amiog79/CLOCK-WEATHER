@@ -725,7 +725,7 @@ background: linear-gradient(to left, #f2fcfe, #B87333); /* W3C, IE 10+/ Edge, Fi
 <h2>YOUTUBE VIDEO</h2>
 
 <div>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/t0Q2otsqC4I">
+<iframe width="360" height="345" src="https://www.youtube.com/embed/t0Q2otsqC4I">
 </iframe>
 </div>
 

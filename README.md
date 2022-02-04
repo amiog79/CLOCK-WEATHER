@@ -1,5 +1,5 @@
 # CLOCK-WEATHER
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">
@@ -698,7 +698,7 @@ background: linear-gradient(to right, #f2fcfe, #1589FF); /* W3C, IE 10+/ Edge, F
 </html>
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">

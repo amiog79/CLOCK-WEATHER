@@ -445,7 +445,7 @@ a {
   background: yellow;
   box-shadow: 0 16px 20px 0 rgba(0,0,0,0.2);
   transition: 1s;
-  width: 25%;
+  width: 45%;
   height:10%;
   box-sizing:60px;
   float:middle;

@@ -445,11 +445,11 @@ a {
   background: yellow;
   box-shadow: 0 16px 20px 0 rgba(0,0,0,0.2);
   transition: 1s;
-  width: 45%;
+  width: 65%;
   height:10%;
   box-sizing:60px;
   float:middle;
-  font-size: 20px;
+  font-size: 25px;
   
 }
 

@@ -449,7 +449,7 @@ a {
   height:10%;
   box-sizing:60px;
   float:middle;
-  font-size: 25px;
+  font-size: 22px;
   
 }
 
